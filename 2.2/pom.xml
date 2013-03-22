@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>community.javaserverfaces</groupId>
-        <artifactId>javaserverfaces-samples</artifactId>
+        <groupId>org.jcp.javaserverfaces.samples</groupId>
+        <artifactId>pom</artifactId>
         <version>2013.3-SNAPSHOT</version>
     </parent>
-    <groupId>community.javaserverfaces.v2_2</groupId>
+    <groupId>org.jcp.javaserverfaces.samples.v2_2</groupId>
     <artifactId>pom</artifactId>
     <packaging>pom</packaging>
     <name>JSF Version 2.2</name>

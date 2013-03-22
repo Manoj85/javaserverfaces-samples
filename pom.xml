@@ -4,8 +4,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>community.javaserverfaces</groupId>
-    <artifactId>javaserverfaces-samples</artifactId>
+    <groupId>org.jcp.javaserverfaces.samples</groupId>
+    <artifactId>pom</artifactId>
     <version>2013.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>JavaServer Faces Samples</name>
