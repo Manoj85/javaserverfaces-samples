@@ -1,4 +1,4 @@
-package community.javaserverfaces.v2_1.datetimeconverter;
+package org.jcp.javaserverfaces.samples.v2_1.datetimeconverter;
 
 import java.util.Date;
 import javax.faces.bean.ManagedBean;
