@@ -39,4 +39,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <modules>
+        <module>stateless</module>
+    </modules>
 </project>
