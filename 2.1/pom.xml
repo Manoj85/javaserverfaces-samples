@@ -40,7 +40,8 @@
         </dependency>
     </dependencies>
     <modules>
+        <module>customConverter</module>
+        <module>customValidator</module>
         <module>dateTimeConverter</module>
-    <module>customConverter</module>
-  </modules>
+    </modules>
 </project>
