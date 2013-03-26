@@ -4,9 +4,6 @@ import java.util.Date;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
-/**
- * The DateTimeConverterBean.
- */
 @ManagedBean
 @RequestScoped
 public class DateTimeConverterBean {
