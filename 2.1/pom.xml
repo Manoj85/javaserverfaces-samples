@@ -43,5 +43,6 @@
         <module>customConverter</module>
         <module>customValidator</module>
         <module>dateTimeConverter</module>
+        <module>overrideRenderer</module>
     </modules>
 </project>
