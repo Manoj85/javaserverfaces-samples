@@ -45,5 +45,6 @@
         <module>dateTimeConverter</module>
         <module>overrideRenderer</module>
         <module>packageCustomConverter</module>
+        <module>usePackagedCustomConverter</module>
     </modules>
 </project>
