@@ -41,5 +41,6 @@
     </dependencies>
     <modules>
         <module>stateless</module>
+        <module>viewrlc</module>
     </modules>
 </project>
